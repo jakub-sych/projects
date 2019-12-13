@@ -14,3 +14,5 @@ register(
         'board_size': 8,
     }
 )
+
+create a folder to put othelloenv.py and __init__.py in
